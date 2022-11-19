@@ -5,7 +5,7 @@ title: Doren Calliku's CV
 
 # Doren Calliku
 
-Junior neuroscientist and engineer working on clinical data of Dementia and psychiatric diseases. 
+Junior neuroscientist and engineer working on clinical data of Dementia and psychiatric diseases.    
 Background in computer engineering and neuropsychology. 
 
 <div id="webaddress">
@@ -17,19 +17,19 @@ Background in computer engineering and neuropsychology.
 
 ### Experienced in
 
-machine learning, python - providing pipelines for neuropsychologists through processing of neuroimaging and clinical data; concentration on fairness and explainability.
+machine learning, python - providing pipelines through processing of neuroimaging and clinical data; concentration on fairness and explainability.
 
-web - full-stack development of prototypes for startups for different industries: cybersecurity, banking, and clinicians. 
+web, flask - full-stack development of prototypes for startups for different industries: cybersecurity, banking, and clinicians. 
 
-knowledge graphs - simplifying text through merging scientific ontologies. 
+knowledge graphs, ontologies - simplifying text through merging scientific ontologies. 
 
 ## Practice
 
 ### Academic research
 
-
 `2022-now`
 __Machine learning engineer__, Neuropsychology Unit, [Niguarda Hospital](https://www.ospedaleniguarda.it/EN/)
+
 - Open source neuroscientific data analysis
 - Machine learning and network analysis in neuroscience
 - Neurodegenerative disorders biomarker exploration
@@ -37,8 +37,9 @@ __Machine learning engineer__, Neuropsychology Unit, [Niguarda Hospital](https:/
 
 `2021-2022`
 __Data science intern__, Urgen-Lab, [UMRAM](http://umram.bilkent.edu.tr/index.php/research-groups/)
-◦ Machine learning for EEG classification (SVM-based)
-◦ Interdisciplinary presentations of machine learning
+
+- Machine learning for EEG classification (SVM-based)
+- Interdisciplinary presentations of machine learning
 
 ### Work experience
 
@@ -51,7 +52,6 @@ __QuickAlgorithm__ Backend engineer (Part-time)
 
 `2020`
 __Freelance__ Protoype building 
-- 
 
 `2019-2020`
 __Emergent__ Full-stack engineer
@@ -64,15 +64,17 @@ __Emergent__ Full-stack engineer
 
 `2020-now`
 __Msc. University of Pavia__ Psychology, neuroscience and human sciences
+
 - Basics: Neuropharmacology, Neurophysiology
 - Clinical: Clinical and Forensic Neuropsychology
-- Methodology: MRI Physics, Computational Neuroscience, Applied
-Neuroscience
+- Methodology: MRI Physics, Computational Neuroscience, Applied Neuroscience
 - Intervention: Neuroscience of Music, Social Cognition
 
 Projects:
-1) Comorbid-graphs [Garden-of-Graphs]
-2) DirectorTask
+
+1) [Comorbid-graphs](https://github.com/DorenCalliku/comorbid-graphs)
+2) [Garden-of-Graphs](http://garden-of-graphs.herokuapp.com/)
+3) [DirectorTask](https://github.com/DorenCalliku/directortask)
 
 
 `2015-2020`
@@ -80,12 +82,6 @@ __BSc. (Honors), Bilkent University__ Computer engineering
 
 `2018`
 __Erasmus+, Royal Institute of Technology__, Data Science
-
-### Languages
-
-| Language  | Albanian | English | Turkish | Italian | 
-| ----- | ------- | --------| -------| -------| 
-| Level | Native | Full prof. | Full prof. | Intermediate|  
 
 <!-- ### Footer
 
