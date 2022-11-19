@@ -16,9 +16,7 @@ Engineer and psychologist working on the neuroimaging and genetics of Dementia a
 
 ### Experienced in
 
-Proficient in structured-data analysis and interpretation using python and SQL, sometimes exploring ontologies and graph analysis.
-
-Currently working on my masters thesis: Revising the clinical criteria for Dementia through explainable machine learning and counterfactuals.
+Proficient in structured-data analysis and interpretation using python and SQL, sometimes exploring ontologies and graph analysis. Currently working on my masters thesis: _Revising the clinical criteria for Dementia through explainable machine learning and counterfactuals._
 
 With experience both in industry and academic research in the fields of health, finance, and asset management.
 
@@ -45,14 +43,14 @@ __BSc. (Honors), Bilkent University__ Computer engineering
 
 ## Work experience
 
-`05/2021 - 07/2022`
+`2022`
 __QuickAlgorithm__ Backend engineer (Part-time)
 
 - 10% performance improvement of database performance
 - installed 100% automatic testing and pipeline
 - explorative task for new frameworks
 
-`01/2020-01/2021`
+`2020`
 __Emergent__ Full-stack engineer
 
 - platform setup
