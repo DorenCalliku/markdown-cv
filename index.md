@@ -8,8 +8,8 @@ title: Doren Calliku's CV
 Engineer and psychologist working on the neuroimaging and genetics of Dementia and psychiatric diseases. Background in computer engineering and neuroscience. 
 
 <div id="webaddress">
-<a href="doren.calliku01@universitadipavia.it">doren.calliku01@universitadipavia.it</a>
-| <a href="dorencalliku.github.io">dorencalliku.github.io</a>
+<a href="emailto:dcalliku@gmail.com">dcalliku@gmail.com</a>
+| <a href="https://dorencalliku.github.io">dorencalliku.github.io</a>
 | <a href="https://www.linkedin.com/in/doren-calliku-23a55623b/">Linkedin</a>
 | <a href="https://github.com/DorenCalliku">Github</a>
 </div>
