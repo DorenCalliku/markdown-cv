@@ -2,8 +2,10 @@
 layout: cv
 title: Doren Calliku's CV
 ---
-# Doren Calliku
-Computer engineer and psychologist working on the neuroimaging and genetics of Dementia and psychiatric diseases. Background in computer engineering and neuroscience. 
+
+## Doren Calliku
+
+Engineer and psychologist working on the neuroimaging and genetics of Dementia and psychiatric diseases. Background in computer engineering and neuroscience. 
 
 <div id="webaddress">
 <a href="doren.calliku01@universitadipavia.it">doren.calliku01@universitadipavia.it</a>
@@ -23,6 +25,14 @@ With experience both in industry and academic research in the fields of health, 
 ### Research interests
 
 Clinical psychology, neuropsychology, data science, neuroimaging, genetics of mental health disorders.
+
+## Work experience
+
+`2020-now`
+__ Pavia__ Psychology, neuroscience and human sciences, Data science master's thesis
+
+`2020`
+__BSc. (Honors), Bilkent University__ Computer engineering
 
 
 ## Education
