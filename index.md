@@ -20,7 +20,7 @@ Proficient in structured-data analysis and interpretation using python and SQL, 
 
 With experience both in industry and academic research in the fields of health, finance, and asset management.
 
-### Research interests
+### Interests
 
 Clinical psychology, neuropsychology, data science, neuroimaging, genetics of mental health disorders.
 
