@@ -45,14 +45,14 @@ __BSc. (Honors), Bilkent University__ Computer engineering
 
 ## Work experience
 
-`May 2021 - Jul 2022`
+`05/2021 - 07/2022`
 __QuickAlgorithm__ Backend engineer (Part-time)
 
 - 10% performance improvement of database performance
 - installed 100% automatic testing and pipeline
 - explorative task for new frameworks
 
-`2020-now`
+`01/2020-01/2021`
 __Emergent__ Full-stack engineer
 
 - platform setup
