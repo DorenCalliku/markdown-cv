@@ -26,24 +26,38 @@ With experience both in industry and academic research in the fields of health, 
 
 Clinical psychology, neuropsychology, data science, neuroimaging, genetics of mental health disorders.
 
-## Work experience
-
-`2020-now`
-__ Pavia__ Psychology, neuroscience and human sciences, Data science master's thesis
-
-`2020`
-__BSc. (Honors), Bilkent University__ Computer engineering
-
-
 ## Education
 
 `2020-now`
-__MSc., University of Pavia__ Psychology, neuroscience and human sciences, Data science master's thesis
+__Msc. University of Pavia__ Psychology, neuroscience and human sciences
+
+- Open source neuroscientific data analysis
+- Machine learning and network analysis in neuroscience
+- Neurodegenerative disorders biomarker exploration
+- Cognitive and brain reserve through intervention timing
 
 `2020`
 __BSc. (Honors), Bilkent University__ Computer engineering
 
+- 10% performance improvement of database performance
+- installed 100% automatic testing and pipeline
+- explorative task for new frameworks
 
+## Work experience
+
+`May 2021 - Jul 2022`
+__QuickAlgorithm__ Backend engineer (Part-time)
+
+- 10% performance improvement of database performance
+- installed 100% automatic testing and pipeline
+- explorative task for new frameworks
+
+`2020-now`
+__Emergent__ Full-stack engineer
+
+- platform setup
+- full-stack engineering
+- funded by the Research Council of Turkey (TUBITAK)
 
 ## Publications
 
