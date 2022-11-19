@@ -5,7 +5,8 @@ title: Doren Calliku's CV
 
 # Doren Calliku
 
-Engineer and psychologist working on the neuroimaging and genetics of Dementia and psychiatric diseases. Background in computer engineering and neuroscience. 
+Junior neuroscientist and engineer working on clinical data of Dementia and psychiatric diseases. 
+Background in computer engineering and neuropsychology. 
 
 <div id="webaddress">
 <a href="mailto:dcalliku@gmail.com">dcalliku@gmail.com</a>
@@ -14,48 +15,77 @@ Engineer and psychologist working on the neuroimaging and genetics of Dementia a
 | <a href="https://github.com/DorenCalliku">Github</a>
 </div>
 
-### Experience
+### Experienced in
 
-Proficient in structured-data analysis and interpretation using python and SQL, sometimes exploring ontologies and graph analysis. Currently working on my masters thesis: Revising the clinical criteria for Dementia through explainable machine learning and counterfactuals. With experience both in industry and academic research in the fields of health, finance, and asset management.
+machine learning, python - providing pipelines for neuropsychologists through processing of neuroimaging and clinical data; concentration on fairness and explainability.
 
-### Interests
+web - full-stack development of prototypes for startups for different industries: cybersecurity, banking, and clinicians. 
 
-Clinical psychology, neuropsychology, data science, neuroimaging, genetics of mental health disorders.
+knowledge graphs - simplifying text through merging scientific ontologies. 
 
-## Education
+## Practice
 
-`2020-now`
-__Msc. University of Pavia__ Psychology, neuroscience and human sciences
+### Academic research
 
+
+`2022-now`
+__Machine learning engineer__, Neuropsychology Unit, [Niguarda Hospital](https://www.ospedaleniguarda.it/EN/)
 - Open source neuroscientific data analysis
 - Machine learning and network analysis in neuroscience
 - Neurodegenerative disorders biomarker exploration
 - Cognitive and brain reserve through intervention timing
 
-`2020`
-__BSc. (Honors), Bilkent University__ Computer engineering
+`2021-2022`
+__Data science intern__, Urgen-Lab, [UMRAM](http://umram.bilkent.edu.tr/index.php/research-groups/)
+◦ Machine learning for EEG classification (SVM-based)
+◦ Interdisciplinary presentations of machine learning
 
-- 10% performance improvement of database performance
-- installed 100% automatic testing and pipeline
-- explorative task for new frameworks
+### Work experience
 
-## Work experience
-
-`2022`
+`2021-2022`
 __QuickAlgorithm__ Backend engineer (Part-time)
 
 - 10% performance improvement of database performance
-- installed 100% automatic testing and pipeline
+- installed automatic testing and pipeline
 - explorative task for new frameworks
 
 `2020`
+__Freelance__ Protoype building 
+- 
+
+`2019-2020`
 __Emergent__ Full-stack engineer
 
 - platform setup
 - full-stack engineering
 - funded by the Research Council of Turkey (TUBITAK)
 
-## Publications
+## Education
+
+`2020-now`
+__Msc. University of Pavia__ Psychology, neuroscience and human sciences
+- Basics: Neuropharmacology, Neurophysiology
+- Clinical: Clinical and Forensic Neuropsychology
+- Methodology: MRI Physics, Computational Neuroscience, Applied
+Neuroscience
+- Intervention: Neuroscience of Music, Social Cognition
+
+Projects:
+1) Comorbid-graphs [Garden-of-Graphs]
+2) DirectorTask
+
+
+`2015-2020`
+__BSc. (Honors), Bilkent University__ Computer engineering
+
+`2018`
+__Erasmus+, Royal Institute of Technology__, Data Science
+
+### Languages
+
+| Language  | Albanian | English | Turkish | Italian | 
+| ----- | ------- | --------| -------| -------| 
+| Level | Native | Full prof. | Full prof. | Intermediate|  
 
 <!-- ### Footer
 
