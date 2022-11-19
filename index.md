@@ -3,7 +3,7 @@ layout: cv
 title: Doren Calliku's CV
 ---
 
-## Doren Calliku
+# Doren Calliku
 
 Engineer and psychologist working on the neuroimaging and genetics of Dementia and psychiatric diseases. Background in computer engineering and neuroscience. 
 
@@ -14,11 +14,9 @@ Engineer and psychologist working on the neuroimaging and genetics of Dementia a
 | <a href="https://github.com/DorenCalliku">Github</a>
 </div>
 
-### Experienced in
+### Experience
 
-Proficient in structured-data analysis and interpretation using python and SQL, sometimes exploring ontologies and graph analysis. Currently working on my masters thesis: _Revising the clinical criteria for Dementia through explainable machine learning and counterfactuals._
-
-With experience both in industry and academic research in the fields of health, finance, and asset management.
+Proficient in structured-data analysis and interpretation using python and SQL, sometimes exploring ontologies and graph analysis. Currently working on my masters thesis: Revising the clinical criteria for Dementia through explainable machine learning and counterfactuals. With experience both in industry and academic research in the fields of health, finance, and asset management.
 
 ### Interests
 
