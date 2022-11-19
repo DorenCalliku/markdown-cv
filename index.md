@@ -1,91 +1,44 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Doren Calliku's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Doren Calliku
+Computer engineer and psychologist working on the neuroimaging and genetics of Dementia and psychiatric diseases. Background in computer engineering and neuroscience. 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="doren.calliku01@universitadipavia.it">doren.calliku01@universitadipavia.it</a>
+| <a href="dorencalliku.github.io">dorencalliku.github.io</a>
+| <a href="https://www.linkedin.com/in/doren-calliku-23a55623b/">Linkedin</a>
+| <a href="https://github.com/DorenCalliku">Github</a>
 </div>
 
+### Experienced in
 
-## Currently
+Proficient in structured-data analysis and interpretation using python and SQL, sometimes exploring ontologies and graph analysis.
 
-Standing on the shoulders of giants
+Currently working on my masters thesis: Revising the clinical criteria for Dementia through explainable machine learning and counterfactuals.
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+With experience both in industry and academic research in the fields of health, finance, and asset management.
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Clinical psychology, neuropsychology, data science, neuroimaging, genetics of mental health disorders.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2020-now`
+__MSc., University of Pavia__ Psychology, neuroscience and human sciences, Data science master's thesis
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2020`
+__BSc. (Honors), Bilkent University__ Computer engineering
 
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: November 2022 -->
 
 
