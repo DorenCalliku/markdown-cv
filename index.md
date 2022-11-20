@@ -5,7 +5,7 @@ title: Doren Calliku's CV
 
 # Doren Calliku
 
-Junior neuroscientist and engineer working on clinical data of Dementia and psychiatric diseases.    
+Junior neuroscientist working on clinical data of Dementia and psychiatric diseases.    
 Background in computer engineering and neuropsychology. 
 
 <div id="webaddress">
