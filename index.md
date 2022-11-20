@@ -30,25 +30,25 @@ __knowledge graphs, ontologies__ - simplifying text through merging scientific o
 `2022-now`
 __Machine learning engineer__, Neuropsychology Unit, [Niguarda Hospital](https://www.ospedaleniguarda.it/EN/)
 
-- Open source neuroscientific data analysis
-- Machine learning and network analysis in neuroscience
-- Neurodegenerative disorders biomarker exploration
-- Cognitive and brain reserve through intervention timing
+Open source neuroscientific data analysis  
+Machine learning and network analysis in neuroscience  
+Neurodegenerative disorders biomarker exploration  
+Cognitive and brain reserve through intervention timing  
 
 `2021-2022`
 __Data science intern__, Urgen-Lab, [UMRAM](http://umram.bilkent.edu.tr/index.php/research-groups/)
 
-- Machine learning for EEG classification (SVM-based)
-- Interdisciplinary presentations of machine learning
+Machine learning for EEG classification (SVM-based)   
+Interdisciplinary presentations of machine learning
 
 ### Work experience
 
 `2021-2022`
 __QuickAlgorithm__ Backend engineer (Part-time)
 
-- 10% performance improvement of database performance
-- installed automatic testing and pipeline
-- explorative task for new frameworks
+10% performance improvement of database performance.   
+Installed automatic testing and pipeline.   
+Explorative task for new frameworks like FastAPI.   
 
 `2020`
 __Freelance__ Protoype building 
@@ -56,9 +56,9 @@ __Freelance__ Protoype building
 `2019-2020`
 __Emergent__ Full-stack engineer
 
-- platform setup
-- full-stack engineering
-- funded by the Research Council of Turkey (TUBITAK)
+Cybersecurity platform for small to mid-size companies. 
+CTO and full-stack engineer, in platform in python and flask.   
+Funded by the Research Council of Turkey (TUBITAK) (TL 200k).
 
 ## Education
 
@@ -67,10 +67,10 @@ __Emergent__ Full-stack engineer
 `2020-now`
 __Msc. University of Pavia__ Psychology, neuroscience and human sciences
 
-- Basics: Neuropharmacology, Neurophysiology
-- Clinical: Clinical and Forensic Neuropsychology
-- Methodology: MRI Physics, Computational Neuroscience, Applied Neuroscience
-- Intervention: Neuroscience of Music, Social Cognition
+Basics: Neuropharmacology, Neurophysiology   
+Clinical: Clinical and Forensic Neuropsychology   
+Methodology: MRI Physics, Computational Neuroscience, Applied Neuroscience    
+Intervention: Neuroscience of Music, Social Cognition    
 
 `2015-2020`
 __BSc. (Honors), Bilkent University__ Computer engineering
