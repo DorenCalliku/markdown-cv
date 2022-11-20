@@ -17,11 +17,11 @@ Background in computer engineering and neuropsychology.
 
 ### Experienced in
 
-machine learning, python - providing pipelines through processing of neuroimaging and clinical data; concentration on fairness and explainability.
+__machine learning, python__ - providing pipelines through processing of neuroimaging and clinical data; concentration on fairness and explainability.
 
-web, flask - full-stack development of prototypes for startups for different industries: cybersecurity, banking, and clinicians. 
+__web, flask__ - full-stack development of prototypes for startups for different industries: cybersecurity, banking, and clinicians. 
 
-knowledge graphs, ontologies - simplifying text through merging scientific ontologies. 
+__knowledge graphs, ontologies__ - simplifying text through merging scientific ontologies. 
 
 ## Practice
 
@@ -82,16 +82,11 @@ __Erasmus+, Royal Institute of Technology__, Data Science
 
 __Neuroimaging and Neuroscience Specialization__, Johns Hopkins University
 
-- Neuroimaging principles
-- fMRI principles I
-- fMRI principles II
-- Neurohacking with R
+Neuroimaging principles, fMRI principles I, fMRI principles II, Neurohacking with R
 
 __AI for Medical Diagnosis__, DeepLearning.ai
 
-- Explainable machine learning
-- Classification steps
-
+Explainable machine learning, Classification, Imaging
 
 ## Projects
 
