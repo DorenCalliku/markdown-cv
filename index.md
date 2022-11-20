@@ -3,6 +3,8 @@ layout: cv
 title: Doren Çalliku's CV
 ---
 
+<br> <br> 
+
 # Doren Çalliku
 
 Junior neuroscientist working on clinical data of Dementia and psychiatric diseases.    
@@ -54,10 +56,10 @@ Explorative task for new frameworks like FastAPI.
 __Freelance__ Protoype building 
 
 `2019-2020`
-__Emergent__ Full-stack engineer
+__Founder, Emergent__ Full-stack engineer
 
-Cybersecurity platform for small to mid-size companies. 
-CTO and full-stack engineer, in platform in python and flask.   
+Cybersecurity platform for small to mid-size companies. Team of 3.   
+Full-stack engineer, in platform in python and flask.   
 Funded by the Research Council of Turkey (TUBITAK) (TL 200k).
 
 ## Education
