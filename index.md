@@ -104,7 +104,7 @@ __[Garden-of-Graphs](http://garden-of-graphs.herokuapp.com/)__
 
 ### Psychology
 
-__[DirectorTask](https://github.com/DorenCalliku/directortask)__
+__[Psychopy-DirectorTask](https://github.com/DorenCalliku/directortask)__ Implementation of the task by Dumontheil et al. (2010), targeting Theory of Mind for the young and elderly.
 
 <!-- ### Footer
 
