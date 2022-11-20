@@ -62,6 +62,8 @@ __Emergent__ Full-stack engineer
 
 ## Education
 
+### Universities
+
 `2020-now`
 __Msc. University of Pavia__ Psychology, neuroscience and human sciences
 
@@ -70,18 +72,41 @@ __Msc. University of Pavia__ Psychology, neuroscience and human sciences
 - Methodology: MRI Physics, Computational Neuroscience, Applied Neuroscience
 - Intervention: Neuroscience of Music, Social Cognition
 
-Projects:
-
-1) [Comorbid-graphs](https://github.com/DorenCalliku/comorbid-graphs)
-2) [Garden-of-Graphs](http://garden-of-graphs.herokuapp.com/)
-3) [DirectorTask](https://github.com/DorenCalliku/directortask)
-
-
 `2015-2020`
 __BSc. (Honors), Bilkent University__ Computer engineering
 
 `2018`
 __Erasmus+, Royal Institute of Technology__, Data Science
+
+### Online learning
+
+__Neuroimaging and Neuroscience Specialization__, Johns Hopkins University
+
+- Neuroimaging principles
+- fMRI principles I
+- fMRI principles II
+- Neurohacking with R
+
+__AI for Medical Diagnosis__, DeepLearning.ai
+
+- Explainable machine learning
+- Classification steps
+
+
+## Projects
+
+### Machine learning
+
+
+### Ontologies
+
+__[Comorbid-graphs](https://github.com/DorenCalliku/comorbid-graphs)__
+
+__[Garden-of-Graphs](http://garden-of-graphs.herokuapp.com/)__
+
+### Psychology
+
+__[DirectorTask](https://github.com/DorenCalliku/directortask)__
 
 <!-- ### Footer
 
