@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Doren Calliku's CV
+title: Doren Çalliku's CV
 ---
 
-# Doren Calliku
+# Doren Çalliku
 
 Junior neuroscientist working on clinical data of Dementia and psychiatric diseases.    
 Background in computer engineering and neuropsychology. 
@@ -92,6 +92,7 @@ Explainable machine learning, Classification, Imaging
 
 ### Machine learning
 
+__Deep learning on MRI__
 
 ### Ontologies
 
