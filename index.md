@@ -92,9 +92,6 @@ Explainable machine learning, Classification, Imaging
 
 ## Projects
 
-### Machine learning
-
-__Deep learning on MRI__
 
 ### Ontologies
 
