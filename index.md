@@ -32,16 +32,16 @@ __knowledge graphs, ontologies__ - simplifying text through merging scientific o
 `2022-now`
 __Machine learning engineer__, Neuropsychology Unit, [Niguarda Hospital](https://www.ospedaleniguarda.it/EN/)
 
-Open source neuroscientific data analysis  
-Machine learning and network analysis in neuroscience  
-Neurodegenerative disorders biomarker exploration  
-Cognitive and brain reserve through intervention timing  
+- Open source neuroscientific data analysis  
+- Machine learning and network analysis in neuroscience  
+- Neurodegenerative disorders biomarker exploration  
+- Cognitive and brain reserve through intervention timing  
 
 `2021-2022`
 __Data science intern__, Urgen-Lab, [UMRAM](http://umram.bilkent.edu.tr/index.php/research-groups/)
 
-Machine learning for EEG classification (SVM-based)   
-Interdisciplinary presentations of machine learning
+- Machine learning for EEG classification (SVM-based)   
+- Interdisciplinary presentations of machine learning
 
 ### Work experience
 
@@ -58,9 +58,9 @@ __Freelance__ Protoype building
 `2019-2020`
 __Founder, Emergent__ Full-stack engineer
 
-Cybersecurity platform for small to mid-size companies. Team of 3.   
-Full-stack engineer, in platform in python and flask.   
-Funded by the Research Council of Turkey (TUBITAK) (TL 200k).
+- Cybersecurity platform for small to mid-size companies. Team of 3.   
+- Full-stack engineer, in platform in python and flask.   
+- Funded by the Research Council of Turkey (TUBITAK) (TL 200k).
 
 ## Education
 
@@ -69,10 +69,10 @@ Funded by the Research Council of Turkey (TUBITAK) (TL 200k).
 `2020-now`
 __Msc. University of Pavia__ Psychology, neuroscience and human sciences
 
-Basics: Neuropharmacology, Neurophysiology   
-Clinical: Clinical and Forensic Neuropsychology   
-Methodology: MRI Physics, Computational Neuroscience, Applied Neuroscience    
-Intervention: Neuroscience of Music, Social Cognition    
+- Biological basis: Neuropharmacology, Neurophysiology   
+- Clinical application: Clinical and Forensic Neuropsychology   
+- Methodology: MRI Physics, Computational Neuroscience, Applied Neuroscience    
+- Intervention: Neuroscience of Music, Social Cognition    
 
 `2015-2020`
 __BSc. (Honors), Bilkent University__ Computer engineering
@@ -97,11 +97,18 @@ Explainable machine learning, Classification, Imaging
 
 __[Comorbid-graphs](https://github.com/DorenCalliku/comorbid-graphs)__
 
+How to define comorbidity of mental-health diseases? With the several types of classification systems (DSM-V, HiTOP, RDoC) the task is not as straightforward, so a shared dictionary needs to be set. Through comorbid-graphs, a simple nlp process based on open-ontologies is applied on texts of clinical relevance. It is a proof of concept for possible further integration.
+
 __[Garden-of-Graphs](http://garden-of-graphs.herokuapp.com/)__
+
+A website for `comorbid-graphs` that allows interaction with the graphs produced from the nlp pipeline. It contains analysis on DSM-V and psychology therapies. It is there to provide a visual on the depths of the topics.
 
 ### Psychology
 
-__[Psychopy-DirectorTask](https://github.com/DorenCalliku/directortask)__ Implementation of the task by Dumontheil et al. (2010), targeting Theory of Mind for the young and elderly.
+__[Psychopy-DirectorTask](https://github.com/DorenCalliku/directortask)__
+
+Implementation of the task by Dumontheil et al. (2010), targeting Theory of Mind for the young and elderly.
+Updates on previous setup is the functionality of drag-n-drop which makes the experience smooth for the elderly.
 
 <!-- ### Footer
 
