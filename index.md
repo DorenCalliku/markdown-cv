@@ -43,13 +43,13 @@ __Research assistant, Urgen-Lab__, @<ins>[UMRAM](http://umram.bilkent.edu.tr/ind
 ### Work experience
 
 `2021-2022`
-__Backend Engineer__ (part-time), @QuickAlgorithm, Performance of python and sql pipelines.
+__Backend Engineer__ (part-time), @<ins>[QuickAlgorithm](https://quickalgorithm.com/)</ins>, Performance of python and sql pipelines.
 
 `2020`
 __Freelance__ Protoype building for companies in the field of finance and banking.
 
 `2019-2020`
-__Full-stack__ (part-time), @Emergent, a platform for mid-size businesses. (by TUBITAK, dropped)
+__Full-stack__ (part-time), @<ins>[Emergent](https://emergentthreat.com/)</ins>, a platform for mid-size businesses. (by TUBITAK, dropped)
 
 ## Education
 
