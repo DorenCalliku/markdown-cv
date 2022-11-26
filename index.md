@@ -2,13 +2,11 @@
 layout: cv
 title: Doren Çalliku's CV
 ---
-
-<br> <br> 
+<br>
 
 # Doren Çalliku
 
-Junior neuroscientist working on clinical data of Dementia and psychiatric diseases.    
-Background in computer engineering and neuropsychology. Supporting social FAIRness of algorithms. 
+Junior neuroscientist working on clinical data of Dementia, psychiatric diseases and social FAIRness of algorithms. Background in computer engineering and neuropsychology. 
 
 <div id="webaddress">
 <a href="mailto:dcalliku@gmail.com">dcalliku@gmail.com</a>
@@ -80,7 +78,7 @@ __Neuroimaging and Neuroscience (Specialization)__, Johns Hopkins University
 
 __AI for Medical Diagnosis (Course)__, DeepLearning.ai
 
-## Scholarships and Funding
+## Scholarships+
 
 - Scholarship from the Ministry of Education Italy for following my studies at University of Pavia
 - __TUBITAK-1512__ (200.000 TL) for starting a tech start-up (dropped after winning).
