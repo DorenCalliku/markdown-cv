@@ -67,48 +67,45 @@ __Founder, Emergent__ Full-stack engineer
 ### Universities
 
 `2020-now`
-__Msc. University of Pavia__ Psychology, neuroscience and human sciences
+__Msc., Psychology, neuroscience and human sciences__, University of Pavia
 
-- Biological basis: Neuropharmacology, Neurophysiology   
-- Clinical application: Clinical and Forensic Neuropsychology   
-- Methodology: MRI Physics, Computational Neuroscience, Applied Neuroscience    
-- Intervention: Neuroscience of Music, Social Cognition    
-
-`2015-2020`
-__BSc. (Honors), Bilkent University__ Computer engineering
+- GPA 29.4/30 (very good)
+- Focus on cognitive neuropsychology and computational methods
+- Thesis: "Revising clinical criteria of Dementia using explainable machine learning and counterfactuals."
 
 `2018`
-__Erasmus+, Royal Institute of Technology__, Data Science
+__Erasmus+, Data science__, Royal Institute of Technology
+
+- Focus on neuroscience
+
+`2015-2020`
+__BSc., Computer engineering__, Bilkent University
+
+- GPA 3.45/4.00 (very good)
+- Focus on algorithms and computer science
+- Senior Year Project: "Nona, a recommendation system for your wardrobe."
 
 ### Online learning
 
-__Neuroimaging and Neuroscience Specialization__, Johns Hopkins University
+__Neuroimaging and Neuroscience (Specialization)__, Johns Hopkins University
+__AI for Medical Diagnosis (Course)__, DeepLearning.ai
 
-Neuroimaging principles, fMRI principles I, fMRI principles II, Neurohacking with R
+## Awards and Funding
 
-__AI for Medical Diagnosis__, DeepLearning.ai
+- Scholarship from the Ministry of Education Italy for following my studies at University of Pavia
+- Erasmus Scholarship, Erasmus+ Program support for exchange at Stockholm, Sweden
+- Comprehensive Scholarship, Bilkent University
+- 
+### Funding
 
-Explainable machine learning, Classification, Imaging
+`2019-2020`
+- TUBITAK-1512 (200.000 TL) for starting a tech start-up (refuted after winning).
 
 ## Projects
 
-
-### Ontologies
-
-__[Comorbid-graphs](https://github.com/DorenCalliku/comorbid-graphs)__
-
-How to define comorbidity of mental-health diseases? With the several types of classification systems (DSM-V, HiTOP, RDoC) the task is not as straightforward, so a shared dictionary needs to be set. Through comorbid-graphs, a simple nlp process based on open-ontologies is applied on texts of clinical relevance. It is a proof of concept for possible further integration.
-
-__[Garden-of-Graphs](http://garden-of-graphs.herokuapp.com/)__
-
-A website for `comorbid-graphs` that allows interaction with the graphs produced from the nlp pipeline. It contains analysis on DSM-V and psychology therapies. It is there to provide a visual on the depths of the topics.
-
-### Psychology
-
-__[Psychopy-DirectorTask](https://github.com/DorenCalliku/directortask)__
-
-Implementation of the task by Dumontheil et al. (2010), targeting Theory of Mind for the young and elderly.
-Updates on previous setup is the functionality of drag-n-drop which makes the experience smooth for the elderly.
+__[Comorbid-graphs](https://github.com/DorenCalliku/comorbid-graphs)__: Defining comorbidity of mental health diseases through graphs.
+__[Garden-of-Graphs](http://garden-of-graphs.herokuapp.com/)__: Visualization of text-to-knowledge-graph process for neuro-psychology.
+__[Psychopy-DirectorTask](https://github.com/DorenCalliku/directortask)__: Implementation of the ToM task, by Dumontheil et al. (2010).
 
 <!-- ### Footer
 
