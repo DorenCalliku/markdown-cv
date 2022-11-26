@@ -74,7 +74,7 @@ __B.Sc. Computer engineering__, Bilkent University (Turkey)
 
 ### Online learning
 
-__Neuroimaging and Neuroscience (Specialization)__, Johns Hopkins University,  @<ins>[Coursera](https://www.coursera.org/specializations/computational-neuroscience)</ins>.
+__Neuroimaging and Neuroscience (Specialization)__, John Hopkins U., @<ins>[Coursera](https://www.coursera.org/specializations/computational-neuroscience)</ins>.
 
  __AI for Medical Diagnosis (Course)__, DeepLearning.ai, @<ins>[Coursera](https://www.coursera.org/learn/ai-for-medical-diagnosis)</ins>.
 
