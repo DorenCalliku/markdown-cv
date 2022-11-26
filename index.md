@@ -91,7 +91,7 @@ __Neuroimaging and Neuroscience (Specialization)__, John Hopkins U., @<ins>[Cour
 
 __Garden-of-Graphs__, <ins>[website](http://garden-of-graphs.herokuapp.com/)</ins>: Visualization of text-to-knowledge-graph process for psychology.
 
-__Psychopy-DirectorTask__, <ins>[github](https://github.com/DorenCalliku/directortask)</ins>: Implementation of the ToM task, by Dumontheil et al. (2010).
+__Psychopy-DirectorTask__, <ins>[github](https://github.com/DorenCalliku/directortask)</ins>: Theory of mind task, by (Dumontheil, 2010).
 
 ## Conferences
  
