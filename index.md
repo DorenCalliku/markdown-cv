@@ -8,7 +8,7 @@ title: Doren Çalliku's CV
 # Doren Çalliku
 
 Junior neuroscientist working on clinical data of Dementia and psychiatric diseases.    
-Background in computer engineering and neuropsychology. 
+Background in computer engineering and neuropsychology. Supporting social FAIRness of algorithms. 
 
 <div id="webaddress">
 <a href="mailto:dcalliku@gmail.com">dcalliku@gmail.com</a>
