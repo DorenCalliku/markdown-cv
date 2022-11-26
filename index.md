@@ -88,6 +88,7 @@ __BSc., Computer engineering__, Bilkent University
 ### Online learning
 
 __Neuroimaging and Neuroscience (Specialization)__, Johns Hopkins University
+
 __AI for Medical Diagnosis (Course)__, DeepLearning.ai
 
 ## Awards and Funding
@@ -95,7 +96,7 @@ __AI for Medical Diagnosis (Course)__, DeepLearning.ai
 - Scholarship from the Ministry of Education Italy for following my studies at University of Pavia
 - Erasmus Scholarship, Erasmus+ Program support for exchange at Stockholm, Sweden
 - Comprehensive Scholarship, Bilkent University
-- 
+
 ### Funding
 
 `2019-2020`
@@ -104,7 +105,9 @@ __AI for Medical Diagnosis (Course)__, DeepLearning.ai
 ## Projects
 
 __[Comorbid-graphs](https://github.com/DorenCalliku/comorbid-graphs)__: Defining comorbidity of mental health diseases through graphs.
+
 __[Garden-of-Graphs](http://garden-of-graphs.herokuapp.com/)__: Visualization of text-to-knowledge-graph process for neuro-psychology.
+
 __[Psychopy-DirectorTask](https://github.com/DorenCalliku/directortask)__: Implementation of the ToM task, by Dumontheil et al. (2010).
 
 <!-- ### Footer
