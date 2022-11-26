@@ -80,13 +80,10 @@ __Neuroimaging and Neuroscience (Specialization)__, Johns Hopkins University,  @
 
 ## Scholarships+
 
-### Merit-based
+- Scholarship from the Ministry of Education (Italy) for my master's studies at the University of Pavia.
 - __TUBITAK-1512__ (200.000 TL) for starting a tech start-up (dropped after winning).
-- Comprehensive Scholarship, Bilkent University.
- 
-### Others
-- Scholarship from the Ministry of Education (Italy) for following my studies at the University of Pavia.
 - Erasmus+ Scholarship, Erasmus+ Program support for exchange @<ins>[KTH](https://www.kth.se/en)</ins>, Sweden.
+- Comprehensive Scholarship, Bilkent University.
 
 ## Projects
 
