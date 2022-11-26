@@ -19,7 +19,7 @@ Junior neuroscientist working on clinical data of Dementia, psychiatric diseases
 
 __machine learning, python__ - providing pipelines through processing of neuroimaging and clinical data; concentration on fairness and explainability.
 
-__web, flask__ - full-stack development of prototypes for startups for different industries: cybersecurity, banking, and clinicians. 
+__web, flask__ - full-stack development of prototypes for startups for different industries. 
 
 __knowledge graphs, ontologies__ - simplifying text through merging scientific ontologies. 
 
@@ -34,7 +34,7 @@ __Research assistant__, Neuropsychology Unit, [Niguarda Hospital](https://www.os
 - Focus on machine learning for Dementia, and biomarker exploration. 
 - Creation of a pipeline for supporting the medical staff.  
 
-__Research assistant, Computational Lab__, [HBP](https://dangelo.unipv.it/researchlab/projects/hbp/), Advanced simulation techniques for the cerebellum.
+__Research assistant, Computational Lab__, [HBP](https://dangelo.unipv.it/researchlab/projects/hbp/), Neuro-simulation techniques.
 
 __Research assistant, Urgen-Lab__, [UMRAM](http://umram.bilkent.edu.tr/index.php/research-groups/), Machine learning on EEG-data.
 
@@ -54,19 +54,17 @@ __Full-stack__ (part-time), Emergent, a full stack project for supporting mid-si
 ### Universities
 
 `2020-now`
-__Msc., Psychology, neuroscience and human sciences__, University of Pavia
+__Msc., Psychology, neuroscience and human sciences__, University of Pavia (Italy)
 
 - GPA 29.4/30 (very good)
 - Focus on cognitive neuropsychology and computational methods
 - Thesis: "Revising clinical criteria of Dementia using explainable machine learning and counterfactuals."
 
 `2018`
-__Erasmus+, Data science__, Royal Institute of Technology
-
-- Focus on neuroscience
+__Erasmus+, Data science__, Royal Institute of Technology (Sweden), Focus on neuroscience
 
 `2015-2020`
-__BSc., Computer engineering__, Bilkent University
+__BSc., Computer engineering__, Bilkent University (Turkey)
 
 - GPA 3.45/4.00 (very good)
 - Focus on algorithms and computer science
