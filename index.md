@@ -30,37 +30,26 @@ __knowledge graphs, ontologies__ - simplifying text through merging scientific o
 ### Academic research
 
 `2022-now`
-__Machine learning engineer__, Neuropsychology Unit, [Niguarda Hospital](https://www.ospedaleniguarda.it/EN/)
+__Research assistant__, Neuropsychology Unit, [Niguarda Hospital](https://www.ospedaleniguarda.it/EN/)
 
-- Open source neuroscientific data analysis  
-- Machine learning and network analysis in neuroscience  
-- Neurodegenerative disorders biomarker exploration  
-- Cognitive and brain reserve through intervention timing  
+- Open source neuroscientific data analysis.
+- Focus on machine learning for Dementia, and biomarker exploration. 
+- Creation of a pipeline for supporting the medical staff.  
 
-`2021-2022`
-__Data science intern__, Urgen-Lab, [UMRAM](http://umram.bilkent.edu.tr/index.php/research-groups/)
+__Research assistant, Computational Lab__, [HBP](https://dangelo.unipv.it/researchlab/projects/hbp/), Advanced simulation techniques for the cerebellum.
 
-- Machine learning for EEG classification (SVM-based)   
-- Interdisciplinary presentations of machine learning
+__Research assistant, Urgen-Lab__, [UMRAM](http://umram.bilkent.edu.tr/index.php/research-groups/), Machine learning on EEG-data.
 
 ### Work experience
 
 `2021-2022`
-__QuickAlgorithm__ Backend engineer (Part-time)
-
-10% performance improvement of database performance.   
-Installed automatic testing and pipeline.   
-Explorative task for new frameworks like FastAPI.   
+__Backend Engineer__ (part-time), QuickAlgorithm, Dealing with performance issues of python pipelines and databases.
 
 `2020`
-__Freelance__ Protoype building 
+__Freelance__ Protoype building for companies in the field of finance and banking.
 
 `2019-2020`
-__Founder, Emergent__ Full-stack engineer
-
-- Cybersecurity platform for small to mid-size companies. Team of 3.   
-- Full-stack engineer, in platform in python and flask.   
-- Funded by the Research Council of Turkey (TUBITAK) (TL 200k).
+__Full-stack__ (part-time), Emergent, a full stack project for supporting mid-size businesses. (Funded by TUBITAK, dropped)
 
 ## Education
 
@@ -91,16 +80,12 @@ __Neuroimaging and Neuroscience (Specialization)__, Johns Hopkins University
 
 __AI for Medical Diagnosis (Course)__, DeepLearning.ai
 
-## Awards and Funding
+## Scholarships and Funding
 
 - Scholarship from the Ministry of Education Italy for following my studies at University of Pavia
+- __TUBITAK-1512__ (200.000 TL) for starting a tech start-up (dropped after winning).
 - Erasmus Scholarship, Erasmus+ Program support for exchange at Stockholm, Sweden
 - Comprehensive Scholarship, Bilkent University
-
-### Funding
-
-`2019-2020`
-- TUBITAK-1512 (200.000 TL) for starting a tech start-up (refuted after winning).
 
 ## Projects
 
