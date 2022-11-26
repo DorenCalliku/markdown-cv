@@ -58,25 +58,25 @@ __Full-stack__ (part-time), @Emergent, a platform for mid-size businesses. (by T
 `2020-now`
 __M.Sc. Psychology, neuroscience and human sciences__, University of Pavia (Italy)
 
-- GPA 29.4/30 (very good)
-- Focus on cognitive neuropsychology and computational methods
-- Thesis: "Revising clinical criteria of Dementia using explainable machine learning and counterfactuals."
+- GPA 29.4/30 (very good).
+- Focus on cognitive neuropsychology and computational methods.
+- Thesis: "Revising clinical criteria of Dementia using explainable machine learning and counterfactuals".
 
 `2018`
-__Erasmus+, Data science__, Royal Institute of Technology (Sweden), Focus on neuroscience
+__Erasmus+, Data science__, Royal Institute of Technology (Sweden), Focus on deep learning.
 
 `2015-2020`
 __B.Sc. Computer engineering__, Bilkent University (Turkey)
 
 - GPA 3.45/4.00 (very good)
-- Focus on algorithms and computer science
-- Senior Year Project: "Nona, a recommendation system for your wardrobe."
+- Focus on algorithms and computer science.
+- Senior Year Project: "Nona, a recommendation system for your wardrobe".
 
 ### Online learning
 
-__Neuroimaging and Neuroscience (Specialization)__, Johns Hopkins University
+__Neuroimaging and Neuroscience (Specialization)__, Johns Hopkins University,  @<ins>[Coursera](https://www.coursera.org/specializations/computational-neuroscience)</ins>.
 
-__AI for Medical Diagnosis (Course)__, DeepLearning.ai
+ __AI for Medical Diagnosis (Course)__, DeepLearning.ai, @<ins>[Coursera](https://www.coursera.org/learn/ai-for-medical-diagnosis)</ins>.
 
 ## Scholarships+
 
