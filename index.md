@@ -89,7 +89,7 @@ __Neuroimaging and Neuroscience (Specialization)__, John Hopkins U., @<ins>[Cour
 
  __Comorbid-graphs__, <ins>[github](https://github.com/DorenCalliku/comorbid-graphs)</ins>: Comorbidity of mental health diseases in graphs.
 
-__Garden-of-Graphs__, <ins>[website](http://garden-of-graphs.herokuapp.com/)</ins>: Visualization of text-to-knowledge-graph process for psychology.
+__Garden-of-Graphs__, <ins>[website](http://garden-of-graphs.herokuapp.com/)</ins>: Visualization of knowledge-graphs in psychology.
 
 __Psychopy-DirectorTask__, <ins>[github](https://github.com/DorenCalliku/directortask)</ins>: Theory of mind task, by (Dumontheil, 2010).
 
