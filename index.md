@@ -19,7 +19,7 @@ Junior neuroscientist working on clinical data of Dementia, psychiatric diseases
 
 __machine learning, python__ - pipelines for clinical data, including electrophysiology and neuroimaging; concentration on fairness and explainability.
 
-__knowledge graphs, ontologies__ - simplifying text through merging scientific ontologies. 
+__knowledge graphs, ontologies__ - text extraction and analysis for scientific ontologies. 
 
 __web, flask__ - full-stack development of prototypes for startups of different industries. 
 
