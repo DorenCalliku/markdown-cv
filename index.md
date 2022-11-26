@@ -17,11 +17,11 @@ Junior neuroscientist working on clinical data of Dementia, psychiatric diseases
 
 ### Experienced in
 
-__machine learning, python__ - providing pipelines through processing of neuroimaging and clinical data; concentration on fairness and explainability.
-
-__web, flask__ - full-stack development of prototypes for startups for different industries. 
+__machine learning, python__ - pipelines for clinical data, including electrophysiology and neuroimaging; concentration on fairness and explainability.
 
 __knowledge graphs, ontologies__ - simplifying text through merging scientific ontologies. 
+
+__web, flask__ - full-stack development of prototypes for startups for different industries. 
 
 ## Practice
 
