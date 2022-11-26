@@ -102,9 +102,10 @@ __Poster Presentation__ Exploring the Mind’s Eye – An Interdisciplinary Conf
 
 ## Skills
  
-- __Data analysis__: MATLAB, R
 - __Programming__: Python, Java, C++, C, MIPS
-- __Other__: Latex, Markdown
+- __Frameworks__: Pandas, Flask, Scikit-learn, Pytorch
+- __Data analysis__: MATLAB, R
+- __Other tools__: Latex, Markdown
 - __Languages__: Albanian (native), English (C2), Turkish (B1), Italian (B1)
  
 ## Extracurricular
