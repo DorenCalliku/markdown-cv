@@ -43,7 +43,7 @@ __Research assistant, Urgen-Lab__, @[UMRAM](http://umram.bilkent.edu.tr/index.ph
 ### Work experience
 
 `2021-2022`
-__Backend Engineer__ (part-time), @QuickAlgorithm, Performance of python pipelines and sql databases.
+__Backend Engineer__ (part-time), @QuickAlgorithm, Performance of python and sql pipelines.
 
 `2020`
 __Freelance__ Protoype building for companies in the field of finance and banking.
