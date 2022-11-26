@@ -6,7 +6,7 @@ title: Doren Çalliku's CV
 
 # Doren Çalliku
 
-Junior neuroscientist working on clinical data of Dementia, psychiatric diseases and social FAIRness of algorithms. Background in computer engineering and neuropsychology. 
+Junior neuroscientist working on clinical data of Dementia, psychiatric diseases, and social FAIRness of algorithms. Background in computer engineering and neuropsychology. 
 
 <div id="webaddress">
 <a href="mailto:dcalliku@gmail.com">dcalliku@gmail.com</a>
@@ -34,8 +34,10 @@ __Research assistant__, Neuropsychology Unit, [Niguarda Hospital](https://www.os
 - Focus on machine learning for Dementia, and biomarker exploration. 
 - Creation of a pipeline for supporting the medical staff.  
 
+`2021`
 __Research assistant, Computational Lab__, [HBP](https://dangelo.unipv.it/researchlab/projects/hbp/), Neuro-simulation techniques.
 
+`2019`
 __Research assistant, Urgen-Lab__, [UMRAM](http://umram.bilkent.edu.tr/index.php/research-groups/), Machine learning on EEG-data.
 
 ### Work experience
@@ -47,7 +49,7 @@ __Backend Engineer__ (part-time), QuickAlgorithm, Dealing with performance issue
 __Freelance__ Protoype building for companies in the field of finance and banking.
 
 `2019-2020`
-__Full-stack__ (part-time), Emergent, a full stack project for supporting mid-size businesses. (Funded by TUBITAK, dropped)
+__Full-stack__ (part-time), Emergent, a platform for mid-size businesses. (by TUBITAK, dropped)
 
 ## Education
 
