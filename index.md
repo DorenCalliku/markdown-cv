@@ -93,9 +93,26 @@ __Garden-of-Graphs__, <ins>[website](http://garden-of-graphs.herokuapp.com/)</in
 
 __Psychopy-DirectorTask__, <ins>[github](https://github.com/DorenCalliku/directortask)</ins>: Implementation of the ToM task, by Dumontheil et al. (2010).
 
-Last updated: November 2022
-<!-- ### Footer
+## Conferences and talks
+ 
+`2019`
+__Poster Presentation__ Exploring the Mind’s Eye – An Interdisciplinary Conference on Imagination, Ankara, Turkey.
 
- -->
+## Skills
+ 
+__Data analysis__: MATLAB, R
+__Programming__: Python, Java, C++, C, MIPS
+__Other__: Latex, Markdown
+__Languages__: Albanian (native), English (C2), Turkish (B1), Italian (B1)
+ 
+## Extracurricular
+ 
+`2021-2022`
+__Student council__: University of Pavia, representative of Psychology and Neuroscience program.
+
+__Interests__: Volleyball, dancing, coding.
+
+
+_Last updated: November 2022_
 
 
