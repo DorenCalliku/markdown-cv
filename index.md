@@ -28,28 +28,28 @@ __web, flask__ - full-stack development of prototypes for startups for different
 ### Academic research
 
 `2022-now`
-__Research assistant__, Neuropsychology Unit, [Niguarda Hospital](https://www.ospedaleniguarda.it/EN/)
+__Research assistant__, Neuropsychology Unit, @[Niguarda Hospital](https://www.ospedaleniguarda.it/EN/)
 
 - Open source neuroscientific data analysis.
 - Focus on machine learning for Dementia, and biomarker exploration. 
 - Creation of a pipeline for supporting the medical staff.  
 
 `2021`
-__Research assistant, Computational Lab__, [HBP](https://dangelo.unipv.it/researchlab/projects/hbp/), Neuro-simulation techniques.
+__Research assistant, Computational Lab__, @[HBP](https://dangelo.unipv.it/researchlab/projects/hbp/), Neuro-simulation techniques.
 
 `2019`
-__Research assistant, Urgen-Lab__, [UMRAM](http://umram.bilkent.edu.tr/index.php/research-groups/), Machine learning on EEG-data.
+__Research assistant, Urgen-Lab__, @[UMRAM](http://umram.bilkent.edu.tr/index.php/research-groups/), Machine learning on EEG-data.
 
 ### Work experience
 
 `2021-2022`
-__Backend Engineer__ (part-time), QuickAlgorithm, Dealing with performance issues of python pipelines and databases.
+__Backend Engineer__ (part-time), @QuickAlgorithm, Performance issues of python pipelines and databases.
 
 `2020`
 __Freelance__ Protoype building for companies in the field of finance and banking.
 
 `2019-2020`
-__Full-stack__ (part-time), Emergent, a platform for mid-size businesses. (by TUBITAK, dropped)
+__Full-stack__ (part-time), @Emergent, a platform for mid-size businesses. (by TUBITAK, dropped)
 
 ## Education
 
