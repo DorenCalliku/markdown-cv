@@ -49,7 +49,7 @@ __Backend Engineer__ (part-time), @<ins>[QuickAlgorithm](https://quickalgorithm.
 __Freelance__ Protoype building for companies in the field of finance and banking.
 
 `2019-2020`
-__Full-stack__ (part-time), @<ins>[Emergent](https://emergentthreat.com/)</ins>, a platform for mid-size businesses. (by TUBITAK, dropped)
+__Full-stack__ (part-time), @<ins>[Emergent](https://emergentthreat.com/)</ins>, a cybersecurity platform (supported by TUBITAK).
 
 ## Education
 
