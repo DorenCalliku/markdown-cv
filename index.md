@@ -21,7 +21,7 @@ __machine learning, python__ - pipelines for clinical data, including electrophy
 
 __knowledge graphs, ontologies__ - simplifying text through merging scientific ontologies. 
 
-__web, flask__ - full-stack development of prototypes for startups for different industries. 
+__web, flask__ - full-stack development of prototypes for startups of different industries. 
 
 ## Practice
 
