@@ -56,7 +56,7 @@ __Full-stack__ (part-time), @Emergent, a platform for mid-size businesses. (by T
 ### Universities
 
 `2020-now`
-__Msc., Psychology, neuroscience and human sciences__, University of Pavia (Italy)
+__M.Sc. Psychology, neuroscience and human sciences__, University of Pavia (Italy)
 
 - GPA 29.4/30 (very good)
 - Focus on cognitive neuropsychology and computational methods
@@ -66,7 +66,7 @@ __Msc., Psychology, neuroscience and human sciences__, University of Pavia (Ital
 __Erasmus+, Data science__, Royal Institute of Technology (Sweden), Focus on neuroscience
 
 `2015-2020`
-__BSc., Computer engineering__, Bilkent University (Turkey)
+__B.Sc. Computer engineering__, Bilkent University (Turkey)
 
 - GPA 3.45/4.00 (very good)
 - Focus on algorithms and computer science
