@@ -87,14 +87,15 @@ __Neuroimaging and Neuroscience (Specialization)__, John Hopkins U., @<ins>[Cour
 
 ## Projects
 
- <ins>__[Comorbid-graphs](https://github.com/DorenCalliku/comorbid-graphs)__</ins>: Defining comorbidity of mental health diseases through graphs.
+ __Comorbid-graphs__ , <ins>[github](https://github.com/DorenCalliku/comorbid-graphs)</ins>: Comorbidity of mental health diseases in graphs.
 
- <ins>__[Garden-of-Graphs](http://garden-of-graphs.herokuapp.com/)__</ins>: Visualization of text-to-knowledge-graph process for neuro-psychology.
+__Garden-of-Graphs__, <ins>[website](http://garden-of-graphs.herokuapp.com/)</ins>: Visualization of text-to-knowledge-graph process for neuro-psychology.
 
- <ins>__[Psychopy-DirectorTask](https://github.com/DorenCalliku/directortask)__</ins>: Implementation of the ToM task, by Dumontheil et al. (2010).
+__Psychopy-DirectorTask__, <ins>[github](https://github.com/DorenCalliku/directortask)</ins>: Implementation of the ToM task, by Dumontheil et al. (2010).
 
+Last updated: November 2022
 <!-- ### Footer
 
-Last updated: November 2022 -->
+ -->
 
 
