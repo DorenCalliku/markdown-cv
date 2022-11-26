@@ -28,17 +28,17 @@ __web, flask__ - full-stack development of prototypes for startups of different 
 ### Academic research
 
 `2022-now`
-__Research assistant__, Neuropsychology Unit, @[Niguarda Hospital](https://www.ospedaleniguarda.it/EN/)
+__Research assistant, Neuropsychology Unit__, @<ins>[Niguarda Hospital](https://www.ospedaleniguarda.it/EN/)<ins>
 
 - Open source neuroscientific data analysis.
 - Focus on machine learning for Dementia, and biomarker exploration. 
 - Creation of a pipeline for supporting the medical staff.  
 
 `2021`
-__Research assistant, Computational Lab__, @[HBP](https://dangelo.unipv.it/researchlab/projects/hbp/), Neuro-simulation techniques.
+__Research assistant, Computational Lab__, @<ins>[HBP](https://dangelo.unipv.it/researchlab/projects/hbp/)</ins>, Neuro-simulation techniques.
 
 `2019`
-__Research assistant, Urgen-Lab__, @[UMRAM](http://umram.bilkent.edu.tr/index.php/research-groups/), Machine learning on EEG-data.
+__Research assistant, Urgen-Lab__, @<ins>[UMRAM](http://umram.bilkent.edu.tr/index.php/research-groups/)</ins>, Machine learning on EEG-data.
 
 ### Work experience
 
