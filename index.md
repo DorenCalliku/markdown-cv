@@ -102,10 +102,11 @@ __Poster Presentation__ Exploring the Mind’s Eye – An Interdisciplinary Conf
 
 ## Skills
  
-- __Programming__: Python, Java, C++, C, MIPS
-- __Frameworks__: Pandas, Flask, Scikit-learn, Pytorch
-- __Data analysis__: MATLAB, R
-- __Other tools__: Latex, Markdown
+- __Programming__: Python (daily usage), R, Java, C++, C, MIPS (explored)
+- __Frameworks__: Pandas, Flask, Scikit-learn (daily usage), Pytorch (explored) 
+- __Neuroimaging__: fslr, ANTs, nipype, nilearn (explored)
+- __Electrophysiology__: MATLAB scripts, MNE-python (explored)
+- __Other tools__: Latex, Markdown, Ontobio
 - __Languages__: Albanian (native), English (C2), Turkish (B1), Italian (B1)
  
 ## Extracurricular
