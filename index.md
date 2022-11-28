@@ -60,7 +60,7 @@ __M.Sc. Psychology, neuroscience and human sciences__, University of Pavia (Ital
 
 - GPA 29.4/30 (very good).
 - Focus on cognitive neuropsychology and computational methods.
-- Thesis: "Revising clinical criteria of Dementia using explainable machine learning and counterfactuals".
+- Thesis: "Revising the clinical criteria of Dementia using explainable machine learning and counterfactuals".
 
 `2018`
 __Erasmus+, Data science__, Royal Institute of Technology (Sweden), Focus on deep learning.
