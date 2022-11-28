@@ -115,7 +115,7 @@ __Poster Presentation__ Exploring the Mind’s Eye – An Interdisciplinary Conf
 __Student council__: University of Pavia, representative of the Neuroscience program.
 
 `2016-2019`
- __Voluntary work__: @<ins>[TDP](https://www.tdpbilkent.org/)</ins>, targeting education, poverty, war results.
+ __Voluntary work__: @<ins>[TDP](https://www.tdpbilkent.org/)</ins>, helping in education, poverty, and refugee issues.
 
 __Interests__: Volleyball, dancing, coding.
 
