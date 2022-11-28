@@ -6,7 +6,7 @@ title: Doren Çalliku's CV
 
 # Doren Çalliku
 
-Junior neuroscientist working on clinical data of Dementia, psychiatric diseases, and social FAIRness of algorithms. Background in computer engineering and neuropsychology. 
+Junior neuroscientist working on clinical data of Dementia, psychiatric diseases, and social FAIRness of algorithms. Engineer turning psychologist.
 
 <div id="webaddress">
 <a href="mailto:dcalliku@gmail.com">dcalliku@gmail.com</a>
@@ -91,7 +91,7 @@ __Neuroimaging and Neuroscience (Specialization)__, John Hopkins U., @<ins>[Cour
 
 __Garden-of-Graphs__, <ins>[website](http://garden-of-graphs.herokuapp.com/)</ins>: Visualization of knowledge-graphs in psychology.
 
-__Psychopy-DirectorTask__, <ins>[github](https://github.com/DorenCalliku/directortask)</ins>: Theory of mind task, by (Dumontheil, 2010).
+__Psychopy-DirectorTask__, <ins>[github](https://github.com/DorenCalliku/directortask)</ins>: Code for Theory of mind task by Dumontheil (2010).
 
 <br><br>
 
@@ -112,6 +112,9 @@ __Poster Presentation__ Exploring the Mind’s Eye – An Interdisciplinary Conf
  
 `2021-2022`
 __Student council__: University of Pavia, representative of the Neuroscience program.
+
+`2016-2019`
+ __Voluntary work__: @<ins>[TDP](https://www.tdpbilkent.org/)</ins>, targeting education, poverty, war results.
 
 __Interests__: Volleyball, dancing, coding.
 
