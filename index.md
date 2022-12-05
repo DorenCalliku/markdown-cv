@@ -108,7 +108,7 @@ __Poster Presentation__ Exploring the Mind’s Eye – An Interdisciplinary Conf
 - __EEG-eing__: MATLAB scripts, MNE-python (explored)
 - __DevOps__: Git, Docker, Docker-Compose
 - __Other tools__: Latex, Markdown, Ontobio
-- __Languages__: Albanian (native), English (C2), Turkish (B1), Italian (B1)
+- __Languages__: Albanian (native), English (C2), Turkish (B1), Italian (B1), German (A1)
  
 ## Extracurricular
  
