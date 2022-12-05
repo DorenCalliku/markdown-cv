@@ -106,6 +106,7 @@ __Poster Presentation__ Exploring the Mind’s Eye – An Interdisciplinary Conf
 - __Frameworks__: Pandas, Flask, Scikit-learn (daily usage), Pytorch (explored) 
 - __Neuroimaging__: fslr, ANTs, nipype, nilearn (explored)
 - __EEG-eing__: MATLAB scripts, MNE-python (explored)
+- __DevOps__: Git, Docker, Docker-Compose
 - __Other tools__: Latex, Markdown, Ontobio
 - __Languages__: Albanian (native), English (C2), Turkish (B1), Italian (B1)
  
@@ -122,6 +123,6 @@ __Interests__: Volleyball, dancing, coding.
 
 <br>
  
-_Last updated: November 2022_
+_Last updated: December 2022_
 
 
