@@ -10,7 +10,7 @@ Junior neuroscientist working on clinical data of Dementia, psychiatric diseases
 
 <div id="webaddress">
 <a href="mailto:dcalliku@gmail.com">dcalliku@gmail.com</a>
-| <a href="https://dorencalliku.github.io">dorencalliku.github.io</a>
+<!--| <a href="https://dorencalliku.github.io">dorencalliku.github.io</a>-->
 | <a href="https://www.linkedin.com/in/doren-calliku-23a55623b/">Linkedin</a>
 | <a href="https://github.com/DorenCalliku">Github</a>
 | <a href="https://twitter.com/po_mo_doro">Twitter</a>
