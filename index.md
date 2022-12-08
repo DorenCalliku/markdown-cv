@@ -64,7 +64,7 @@ __M.Sc. Psychology, neuroscience and human sciences__, University of Pavia (Ital
 - Thesis: "Revising the clinical criteria of Dementia using explainable machine learning and counterfactuals".
 
 `2018`
-__Erasmus+, Data science__, Royal Institute of Technology (Sweden), Focus on deep learning.
+__Erasmus+, Data science__, Royal Institute of Technology (Sweden), Deep architectures.
 
 `2015-2020`
 __B.Sc. Computer engineering__, Bilkent University (Turkey)
@@ -94,19 +94,20 @@ __Garden-of-Graphs__, <ins>[website](http://garden-of-graphs.herokuapp.com/)</in
 
 __Psychopy-DirectorTask__, <ins>[github](https://github.com/DorenCalliku/directortask)</ins>: Code for Theory of mind task by Dumontheil (2010).
 
-<br><br><br><br><br>
-
 ## Conferences
  
 `2019`
 __Poster Presentation__ Exploring the Mind’s Eye – An Interdisciplinary Conference on Imagination, Ankara, Turkey.
 
+<br><br><br><br>
+ 
 ## Skills
  
 - __Programming__: Python (daily usage), R, Java, C++, C, MIPS (explored)
-- __Frameworks__: Pandas, Flask, Scikit-learn (daily usage), Pytorch (explored) 
-- __Neuroimaging__: fslr, ANTs, nipype, nilearn (explored)
-- __EEG-eing__: MATLAB scripts, MNE-python (explored)
+- __Tools__: Pandas, Flask, (daily usage), Django (explored)
+- __Machine learning__:  Scikit-learn (daily usage), Keras, TF, Pytorch (explored) 
+- __MRI-ing__: fslr, ANTs, nipype, nilearn (explored)
+- __EEG-ing__: MATLAB scripts, MNE-python (explored)
 - __DevOps__: Git, Docker, Docker-Compose
 - __Other tools__: Latex, Markdown, Ontobio
 - __Languages__: Albanian (native), English (C2), Turkish (B1), Italian (B1), German (A1)
