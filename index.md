@@ -99,7 +99,7 @@ __Psychopy-DirectorTask__, <ins>[github](https://github.com/DorenCalliku/directo
 `2019`
 __Poster Presentation__ Exploring the Mind’s Eye – An Interdisciplinary Conference on Imagination, Ankara, Turkey.
 
-<br><br>
+<br><br><br>
  
 ## Skills
 
