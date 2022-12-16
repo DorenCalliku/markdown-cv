@@ -104,12 +104,12 @@ __Poster Presentation__ Exploring the Mind’s Eye – An Interdisciplinary Conf
 ## Skills
  
 - __Programming__: Python (daily usage), R, Java, C++, C, MIPS (explored)
-- __Tools__: Pandas, Flask, (daily usage), Django (explored)
-- __Machine learning__:  Scikit-learn (daily usage), Keras, TF, Pytorch (explored) 
+- __Machine learning__:  Pandas, Sklearn (daily usage), Keras, TF, Pytorch (explored) 
 - __MRI-ing__: fslr, ANTs, nipype, nilearn (explored)
-- __EEG-ing__: MATLAB scripts, MNE-python (explored)
+- __EEG-ing__: MNE-python, MATLAB scripts (explored)
 - __DevOps__: Git, Docker, Docker-Compose
-- __Tools__: ElasticSearch (ES6), Grafana, Markdown, Ontobio
+- __Web-Tools__: Flask, (daily usage), Django (explored)
+- __Visualizations__: ElasticSearch (ES6), Kibana, Grafana
 - __Languages__: Albanian (native), English (C2), Turkish (B1), Italian (B1), German (A1)
  
 ## Extracurricular
