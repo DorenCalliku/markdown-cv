@@ -109,7 +109,7 @@ __Poster Presentation__ Exploring the Mind’s Eye – An Interdisciplinary Conf
 - __Data__: SQL, Pandas, Sklearn (daily usage), ElasticSearch, Keras, TF, Pytorch (explored) 
 - __Tools__: Git, Docker, Docker-Compose, Kibana, Grafana
 - __Languages__: Albanian (native), English (C2), Turkish (B1), Italian (B1), German (A1)
-- __Application__: Flask, (daily usage), Django (explored)
+- __Applications__: Flask, (daily usage), Django (explored)
 
 ### Neuroscience
 
