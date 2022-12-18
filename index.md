@@ -118,8 +118,8 @@ __Poster Presentation__ Exploring the Mind’s Eye – An Interdisciplinary Conf
 ### Applications
 
 - __Tools__: Git, Docker, Docker-Compose, Linux, Kibana, Grafana
-- __Advanced__: ElasticSearch, Keras, TF, Pytorch (explored) 
 - __Web-Dev__: Flask, (daily usage), Django (explored)
+- __Advanced__: ElasticSearch, Keras, TF, Pytorch (explored) 
 
  
 ## Extracurricular
