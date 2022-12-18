@@ -99,23 +99,28 @@ __Psychopy-DirectorTask__, <ins>[github](https://github.com/DorenCalliku/directo
 `2019`
 __Poster Presentation__ Exploring the Mind’s Eye – An Interdisciplinary Conference on Imagination, Ankara, Turkey.
 
-<br><br><br>
+<br><br><br><br>
  
 ## Skills
 
 ### General
 
-- __Programming__: Python (daily usage), R, Java, C++, C, MIPS (explored)
-- __Data__: SQL, Pandas, Sklearn (daily usage), ElasticSearch, Keras, TF, Pytorch (explored) 
-- __Tools__: Git, Docker, Docker-Compose, Kibana, Grafana
+- __Data__: SQL, Pandas, Sklearn (daily usage)
+- __Coding__: Python (daily usage), R, Java, C++, C, MIPS (explored)
 - __Languages__: Albanian (native), English (C2), Turkish (B1), Italian (B1), German (A1)
-- __Applications__: Flask, (daily usage), Django (explored)
-
+ 
 ### Neuroscience
 
 - __MRI-ing__: fslr, ANTs, nipype, nilearn (explored)
 - __EEG-ing__: MNE-python, MATLAB scripts (explored)
 - __Ontology__: Ontobio, ComorbidLab
+
+### Applications
+
+- __Tools__: Git, Docker, Docker-Compose, Linux, Kibana, Grafana
+- __Advanced__: ElasticSearch, Keras, TF, Pytorch (explored) 
+- __Web-Dev__: Flask, (daily usage), Django (explored)
+
  
 ## Extracurricular
  
