@@ -6,7 +6,7 @@ title: Doren Çalliku's CV
 
 # Doren Çalliku
 
-Junior engineer working on social fairness of algorithms. 
+Junior neuroscientist working on clinical data of Dementia, psychiatric diseases, and social FAIRness of algorithms. Engineer turning psychologist.
 
 <div id="webaddress">
 <a href="mailto:dcalliku@gmail.com">dcalliku@gmail.com</a>
@@ -31,7 +31,7 @@ __web, flask__ - full-stack development of prototypes for startups of different 
 `2022-now`
 __Research assistant, Neuropsychology Unit__, @<ins>[Niguarda Hospital](https://www.ospedaleniguarda.it/EN/)<ins>
 
-- Open source data analysis.
+- Open source neuroscientific data analysis.
 - Focus on machine learning for Dementia, and biomarker exploration. 
 - Creation of a pipeline for supporting the medical staff.  
 
@@ -69,12 +69,38 @@ __Erasmus+, Data science__, Royal Institute of Technology (Sweden), Deep archite
 `2015-2020`
 __B.Sc. Computer engineering__, Bilkent University (Turkey)
 
+- GPA 3.45/4.00 (very good)
+- Focus on algorithms and computer science.
+- Senior Year Project: "Nona, a recommendation system for your wardrobe".
+
 ### Online learning
 
 __Neuroimaging and Neuroscience (Specialization)__, John Hopkins U., @<ins>[Coursera](https://www.coursera.org/specializations/computational-neuroscience)</ins>.
 
  __AI for Medical Diagnosis (Course)__, DeepLearning.ai, @<ins>[Coursera](https://www.coursera.org/learn/ai-for-medical-diagnosis)</ins>.
 
+## Scholarships+
+
+- Scholarship from the Ministry of Education (Italy) for my master's studies at the University of Pavia.
+- __TUBITAK-1512__ (200.000 TL) for starting a tech start-up (dropped after winning).
+- Erasmus+ Scholarship, Erasmus+ Program support for exchange @<ins>[KTH](https://www.kth.se/en)</ins>, Sweden.
+- Comprehensive Scholarship, Bilkent University.
+
+## Projects
+
+ __Comorbid-graphs__, <ins>[github](https://github.com/DorenCalliku/comorbid-graphs)</ins>: Comorbidity of mental health diseases in graphs.
+
+__Garden-of-Graphs__, <ins>[website](http://garden-of-graphs.herokuapp.com/)</ins>: Visualization of knowledge-graphs in psychology.
+
+__Psychopy-DirectorTask__, <ins>[github](https://github.com/DorenCalliku/directortask)</ins>: Code for Theory of mind task by Dumontheil (2010).
+
+## Conferences
+ 
+`2019`
+__Poster Presentation__ Exploring the Mind’s Eye – An Interdisciplinary Conference on Imagination, Ankara, Turkey.
+
+<br><br><br>
+ 
 ## Skills
 
 ### General
@@ -107,4 +133,6 @@ __Student council__: University of Pavia, representative of the Neuroscience pro
 __Interests__: Volleyball, dancing, coding.
 
 
-
+<br>
+ 
+_Last updated: December 2022_
