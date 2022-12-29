@@ -6,7 +6,7 @@ title: Doren Çalliku's CV
 
 # Doren Çalliku
 
-Junior data-scientist working on social FAIRness of algorithms and urban-development. 
+Junior engineer working on social fairness of algorithms. 
 
 <div id="webaddress">
 <a href="mailto:dcalliku@gmail.com">dcalliku@gmail.com</a>
@@ -106,9 +106,5 @@ __Student council__: University of Pavia, representative of the Neuroscience pro
 
 __Interests__: Volleyball, dancing, coding.
 
-
-<br>
- 
-_Last updated: December 2022_
 
 
