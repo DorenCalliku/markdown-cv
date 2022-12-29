@@ -6,7 +6,7 @@ title: Doren Çalliku's CV
 
 # Doren Çalliku
 
-Junior data-scientist working on social FAIRness of algorithms and geo-spatial code. 
+Junior data-scientist working on social FAIRness of algorithms and urban-development. 
 
 <div id="webaddress">
 <a href="mailto:dcalliku@gmail.com">dcalliku@gmail.com</a>
