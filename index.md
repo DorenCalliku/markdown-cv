@@ -113,6 +113,7 @@ __Poster Presentation__ Exploring the Mind’s Eye – An Interdisciplinary Conf
 
 - __MRI-ing__: fslr, ANTs, nipype, nilearn (explored)
 - __EEG-ing__: MNE-python, MATLAB scripts (explored)
+- __Neurogen__: ENIGMA, Neuromaps (explored)
 - __Ontology__: Ontobio, ComorbidLab
 
 ### Applications
