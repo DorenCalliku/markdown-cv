@@ -25,12 +25,12 @@ __Advisor on Sustainable Mobility__, @<ins>[GIZ](https://www.giz.de/en/html/inde
 - Policy-making using data for marginal gains.
 - Reporting and trainings on economic data.
 
-`06/21-07/2022`
-__Backend Engineer__ (part-time), @<ins>[QuickAlgorithm](https://quickalgorithm.com/)</ins>, Python/sql.
+`06/21-07/22`
+__Backend Engineer__ (part-time), @<ins>[QuickAlgorithm](https://quickalgorithm.com/)</ins>, Python and sql.
 
 ### Academic research
 
-`07/22-03/2023`
+`07/22-03/23`
 __Research assistant, Neuropsychology Unit__, @<ins>[Niguarda Hospital](https://www.ospedaleniguarda.it/EN/)<ins>
 
 - Open source neuroscientific data analysis.
@@ -70,4 +70,11 @@ __B.Sc. Computer engineering__, Bilkent University (Turkey)
 - __Languages__: Albanian (native), English (C2), Turkish (B1), Italian (B1)
 - __MRI-ing__: fslr, ANTs, nipype, nilearn (explored)
 - __EEG-ing__: MNE-python, MATLAB scripts (explored)
-- __ML+__: ElasticSearch, Keras, TF, Pytorch (explored) 
+- __ML+__: ElasticSearch, Keras, TF, Pytorch (explored)
+
+## Activities
+- __Open Labs Member__: Open-Source in Albania, organizer of the OSCAL23 Conference.
+- __Student council__: University of Pavia, representative of the Neuroscience program.
+- __Voluntary work__: @TDP, helping in education, poverty, and refugee issues.
+
+_Last updated: 10/23._
