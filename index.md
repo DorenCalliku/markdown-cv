@@ -42,16 +42,18 @@ __Research assistant, Neuropsychology Unit__, @<ins>[Niguarda Hospital](https://
 ### Universities
 
 `2020-2023`
-__M.Sc. Psychology, neuroscience and human sciences__, University of Pavia (Italy)
+__M.Sc. Psychology, neuroscience and human sciences__
 
-- GPA: 110/110 and summa cum laude (very good)
+- University of Pavia and Institute for Advanced Studies (Italy)
+- __GPA__: 110/110 and summa cum laude (very good)
 - Focus on cognitive neuropsychology and computational methods.
 - Thesis: "Revising the clinical criteria of Dementia using explainable machine learning".
 
 `2015-2020`
-__B.Sc. Computer engineering__, Bilkent University (Turkey)
+__B.Sc. Computer engineering__
 
-- GPA: 3.45/4.00 (very good)
+- Bilkent University (Turkey)
+- __GPA__: 3.45/4.00 (very good)
 - Erasmus+ in Data Science at Royal Institute of Technology (Sweden).
 - Focus on algorithms and computer science.
 - Senior Year Project: "Nona, a recommendation system for your wardrobe".
