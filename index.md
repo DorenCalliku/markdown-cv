@@ -10,8 +10,8 @@ A computer engineer working with Open Data and Open-Source tools in the fields o
 <div id="webaddress">
 <a href="mailto:dcalliku@gmail.com">e-mail</a>
 <!--| <a href="https://dorencalliku.github.io">dorencalliku.github.io</a>-->
-| <a href="https://github.com/pomodoren">Github</a>
-| <a href="https://www.linkedin.com/in/pomodoren/">Linkedin</a>
+| <a href="https://github.com/pomodoren">github</a>
+| <a href="https://www.linkedin.com/in/pomodoren/">linkedin</a>
 </div>
 
 ## Practice
