@@ -65,11 +65,11 @@ __B.Sc. Computer engineering__, Bilkent University (Turkey)
 
 ## Skills
 
-- __Data__: SQL, Pandas, Sklearn (daily usage)
+- __Mobility__: QGIS, geopandas, OpenRouteService, OverpassTurbo (daily usage)
+- __Neuro__: MRICron, nipype, nilearn, MNE-python, MATLAB scripts (explored)
+- __Data__: Excel/Calc, SQL, Pandas, Sklearn (daily usage)
 - __Coding__: Python (daily usage), R, Java, C++, C, MIPS (explored)
 - __Languages__: Albanian (native), English (C2), Turkish (B1), Italian (B1)
-- __MRI-ing__: fslr, ANTs, nipype, nilearn (explored)
-- __EEG-ing__: MNE-python, MATLAB scripts (explored)
 - __ML+__: ElasticSearch, Keras, TF, Pytorch (explored)
 
 ## Activities
