@@ -33,9 +33,9 @@ __Backend Engineer__ (part-time), @<ins>[QuickAlgorithm](https://quickalgorithm.
 `07/22-03/23`
 __Research assistant, Neuropsychology Unit__, @<ins>[Niguarda Hospital](https://www.ospedaleniguarda.it/EN/)<ins>
 
-- Open source neuroscientific data analysis.
-- Focus on machine learning for Dementia, and biomarker exploration. 
-- Creation of a pipeline for supporting the medical staff.  
+- Explainable ML models for diagnosing Dementia.
+- Exploration of low-cost (bio)markers (neuropsych. tests over MRI). 
+- Creation of a pipeline for supporting the medical staff for reporting.  
 
 ## Education
 
