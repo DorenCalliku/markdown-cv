@@ -19,7 +19,7 @@ A computer engineer working with Open Data and Open-Source tools in the fields o
 ### Work experience
 
 `03/23-Ongoing`
-__Advisor on Sustainable Mobility__, @<ins>[German Agency for International Cooperation](https://www.giz.de/en/html/index.html)</ins>
+__Advisor on Sustainable Mobility__, @<ins>[German Agency for Int. Cooperation](https://www.giz.de/en/html/index.html)</ins>
 
 - Monitoring and optimizing Tirana's public transport through public institutions.
 - Orienting policy-making towards open-data and open-source tools.
