@@ -5,7 +5,7 @@ title: Doren Çalliku's CV
 
 ## Doren Çalliku
 
-A computer engineer working with Open Data and Open-Source tools in the fields of neuroscience and mobility.
+A computer engineer working with Open Data and Open-Source tools in the fields of neuroscience and mobility. _Last updated: 10/23._
 
 <div id="webaddress">
 <a href="mailto:dcalliku@gmail.com">e-mail</a>
@@ -79,4 +79,3 @@ __B.Sc. Computer engineering__
 - __Student council__: University of Pavia, representative of the Neuroscience program.
 - __Voluntary work__: @TDP, helping in education, poverty, and refugee issues.
 
-_Last updated: 10/23._
