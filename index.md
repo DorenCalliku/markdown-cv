@@ -21,9 +21,10 @@ A computer engineer working with Open Data and Open-Source tools in the fields o
 `03/23-Ongoing`
 __Advisor on Sustainable Mobility__, @<ins>[German Agency for Int. Cooperation](https://www.giz.de/en/html/index.html)</ins>
 
-- Monitoring and optimizing Tirana's public transport through public institutions.
-- Orienting policy-making towards open-data and open-source tools.
+- Digitalizing Tirana's public transport, support institutions with policies.
+- Orienting policy-making on mobility towards open-data and open-source tools.
 - Trainings on priority-based reporting for operational and economic data.
+- AI video analysis for traffic monitoring.
 
 `06/21-07/22`
 __Backend Engineer__ (part-time), @<ins>[QuickAlgorithm](https://quickalgorithm.com/)</ins>, Python and sql.
