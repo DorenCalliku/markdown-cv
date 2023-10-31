@@ -34,9 +34,9 @@ __Backend Engineer__ (part-time), @<ins>[QuickAlgorithm](https://quickalgorithm.
 `07/22-03/23`
 __Research assistant, Neuropsychology Unit__, @<ins>[Niguarda Hospital](https://www.ospedaleniguarda.it/EN/)<ins>
 
-- Explainable ML models for diagnosing Dementia.
+- Explainable ML models for diagnosing Dementia using Open Data.
 - Exploration of low-cost (bio)markers (neuropsych. tests over MRI). 
-- Creation of a pipeline for supporting the medical staff for reporting.  
+- Creation of a pipeline for supporting the medical staff.  
 
 ## Education
 
