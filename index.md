@@ -21,10 +21,10 @@ A computer engineer working with Open Data and Open-Source tools in the fields o
 `03/23-Ongoing`
 __Advisor on Sustainable Mobility__, @<ins>[German Agency for Int. Cooperation](https://www.giz.de/en/html/index.html)</ins>
 
-- Digitalizing Tirana's public transport, support institutions with policies.
+- Digitalizing Tirana's public transport, supporting institutions with policies.
 - Orienting policy-making on mobility towards open-data and open-source tools.
-- Trainings on priority-based reporting for operational and economic data.
-- AI video analysis for traffic monitoring.
+- Training staff on targeted visualizations of operational data.
+- AI video analysis for traffic monitoring using YOLO.
 
 `06/21-07/22`
 __Backend Engineer__ (part-time), @<ins>[QuickAlgorithm](https://quickalgorithm.com/)</ins>, Python and sql.
@@ -73,7 +73,7 @@ __B.Sc. Computer engineering__
 - __Data__: Excel/Calc, SQL, Pandas, Sklearn (daily usage)
 - __Coding__: Python (daily usage), R, Java, C++, C, MIPS (explored)
 - __Languages__: Albanian (native), English (C2), Turkish (B1), Italian (B1)
-- __ML+__: ElasticSearch, Keras, TF, Pytorch (explored)
+- __ML+__: Keras, TF, Pytorch (explored) shap (used)
 
 ## Activities
 - __Open Labs Member__: Open-Source in Albania, organizer of the OSCAL23 Conference.
