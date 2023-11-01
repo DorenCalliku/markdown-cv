@@ -57,7 +57,6 @@ __B.Sc. Computer engineering__
 - __GPA__: 3.45/4.00 (very good)
 - Erasmus+ in Data Science at Royal Institute of Technology (Sweden).
 - Focus on algorithms and computer science.
-- Senior Year Project: "Nona, a recommendation system for your wardrobe".
 
 ## Scholarships+
 
