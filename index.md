@@ -38,13 +38,12 @@ __Research assistant, Neuropsychology Unit__, @<ins>[Niguarda Hospital](https://
 - Exploration of low-cost (bio)markers (neuropsych. tests over MRI). 
 - Creation of a pipeline for supporting the medical staff.  
 
-### Open-Source Community
+### OSS Community
 
-`01/23-Ongoing`
+`03/23-Ongoing`
 __Active Member__, @<ins>[Open Labs Hackerspace](https://openlabs.cc/en/)<ins>
 - Organizer of the yearly Open-Source Conference [OSCAL23](https://oscal.openlabs.cc/).
 - Several presentations of OSS and Open Data initiatives [presentations at OL](https://pomodoren.github.io/open-labs/)
-- Participated at FOSS4G conference with OpenLabs.
 
 ## Education
 
