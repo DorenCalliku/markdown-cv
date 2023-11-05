@@ -29,6 +29,13 @@ __Advisor on Sustainable Mobility__, @<ins>[German Agency for Int. Cooperation](
 `06/21-07/22`
 __Backend Engineer__ (part-time), @<ins>[QuickAlgorithm](https://quickalgorithm.com/)</ins>, Python and sql.
 
+### OSS Community
+
+`03/23-Ongoing`
+__Active Member__, @<ins>[Open Labs Hackerspace](https://openlabs.cc/en/)<ins>
+- Organizer of the yearly Open-Source Conference @[OSCAL23](https://oscal.openlabs.cc/)<ins>.
+- Several presentations of OSS and Open Data initiatives @<ins>[presentations at OL](https://pomodoren.github.io/open-labs/)<ins>
+
 ### Academic research
 
 `07/22-03/23`
@@ -37,13 +44,6 @@ __Research assistant, Neuropsychology Unit__, @<ins>[Niguarda Hospital](https://
 - Explainable ML models for diagnosing Dementia using Open Data.
 - Exploration of low-cost (bio)markers (neuropsych. tests over MRI). 
 - Creation of a pipeline for supporting the medical staff.  
-
-### OSS Community
-
-`03/23-Ongoing`
-__Active Member__, @<ins>[Open Labs Hackerspace](https://openlabs.cc/en/)<ins>
-- Organizer of the yearly Open-Source Conference @[OSCAL23](https://oscal.openlabs.cc/)<ins>.
-- Several presentations of OSS and Open Data initiatives @<ins>[presentations at OL](https://pomodoren.github.io/open-labs/)<ins>
 
 ## Education
 
