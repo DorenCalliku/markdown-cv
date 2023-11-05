@@ -33,8 +33,8 @@ __Backend Engineer__ (part-time), @<ins>[QuickAlgorithm](https://quickalgorithm.
 
 `03/23-Ongoing`
 __Active Member__, @<ins>[Open Labs Hackerspace](https://openlabs.cc/en/)<ins>
-- Organizer of the yearly Open-Source Conference @[OSCAL23](https://oscal.openlabs.cc/)<ins>.
-- Several presentations of OSS and Open Data initiatives @<ins>[presentations at OL](https://pomodoren.github.io/open-labs/)<ins>
+- Organizer of the yearly Open-Source Conference, @[OSCAL23](https://oscal.openlabs.cc/)<ins>.
+- Presentations on OSS tools for mobility, neuro, or cyber, @<ins>[presentations](https://pomodoren.github.io/open-labs/)<ins>.
 
 ### Academic research
 
