@@ -42,8 +42,8 @@ __Research assistant, Neuropsychology Unit__, @<ins>[Niguarda Hospital](https://
 
 `03/23-Ongoing`
 __Active Member__, @<ins>[Open Labs Hackerspace](https://openlabs.cc/en/)<ins>
-- Organizer of the yearly Open-Source Conference [OSCAL23](https://oscal.openlabs.cc/).
-- Several presentations of OSS and Open Data initiatives [presentations at OL](https://pomodoren.github.io/open-labs/)
+- Organizer of the yearly Open-Source Conference @[OSCAL23](https://oscal.openlabs.cc/)<ins>.
+- Several presentations of OSS and Open Data initiatives @<ins>[presentations at OL](https://pomodoren.github.io/open-labs/)<ins>
 
 ## Education
 
