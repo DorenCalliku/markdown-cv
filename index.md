@@ -24,7 +24,7 @@ __Advisor on Sustainable Mobility__, @<ins>[German Agency for Int. Cooperation](
 - Digitalizing Tirana's public transport, supporting institutions with policies.
 - Orienting policy-making on mobility towards open-data and open-source tools.
 - Training staff on targeted visualizations of operational data.
-- AI video analysis for traffic monitoring using YOLO.
+- AI video analysis for modal share counting using YOLO.
 
 `06/21-07/22`
 __Backend Engineer__ (part-time), @<ins>[QuickAlgorithm](https://quickalgorithm.com/)</ins>, Python and sql.
@@ -38,6 +38,14 @@ __Research assistant, Neuropsychology Unit__, @<ins>[Niguarda Hospital](https://
 - Exploration of low-cost (bio)markers (neuropsych. tests over MRI). 
 - Creation of a pipeline for supporting the medical staff.  
 
+### Open-Source Community
+
+'Since 01/23'
+__Active Member__, @<ins>[Open Labs Hackerspace](https://openlabs.cc/en/)<ins>
+- Organizer of the yearly Open-Source Conference [OSCAL23](https://oscal.openlabs.cc/).
+- Several presentations of OSS and Open Data initiatives [presentations at OL](https://pomodoren.github.io/open-labs/)
+- Participated at FOSS4G conference with OpenLabs.
+
 ## Education
 
 ### Universities
@@ -47,6 +55,7 @@ __M.Sc. Psychology, neuroscience and human sciences__
 
 - University of Pavia and Institute for Advanced Studies (Italy)
 - __GPA__: 110/110 and summa cum laude (very good)
+- Student council, representative of the Neuroscience program.
 - Focus on cognitive neuropsychology and computational methods.
 - Thesis: "Revising the clinical criteria of Dementia using explainable machine learning".
 
@@ -55,10 +64,11 @@ __B.Sc. Computer engineering__
 
 - Bilkent University (Turkey)
 - __GPA__: 3.45/4.00 (very good)
-- Erasmus+ in Data Science at Royal Institute of Technology (Sweden).
 - Focus on algorithms and computer science.
-
-## Scholarships+
+- __Data Science__ Erasmus+ at the Royal Institute of Technology (Sweden).
+- Voluntary work @TDP, helping in education, poverty, and refugee issues.
+  
+### Scholarships+
 
 - Scholarship from the Ministry of Education (Italy) for my Msc. at the University of Pavia.
 - __TUBITAK-1512__ (200.000 TL) for starting a tech start-up (not followed because of COVID19).
@@ -73,9 +83,4 @@ __B.Sc. Computer engineering__
 - __Coding__: Python (daily usage), R, Java, C++, C, MIPS (explored)
 - __Languages__: Albanian (native), English (C2), Turkish (B1), Italian (B1)
 - __ML+__: Keras, TF, Pytorch (explored) shap (used)
-
-## Activities
-- __Open Labs Member__: Open-Source in Albania, organizer of the OSCAL23 Conference.
-- __Student council__: University of Pavia, representative of the Neuroscience program.
-- __Voluntary work__: @TDP, helping in education, poverty, and refugee issues.
 
