@@ -56,7 +56,7 @@ __M.Sc. Psychology, neuroscience and human sciences__
 - __GPA__: 110/110 and summa cum laude (very good)
 - Student council, representative of the Neuroscience program.
 - Focus on cognitive neuropsychology and computational methods.
-- Thesis: "Revising the clinical criteria of Dementia using explainable machine learning".
+- __Thesis__: "Revising the clinical criteria for Dementia using explainable machine learning".
 
 `2015-2020`
 __B.Sc. Computer engineering__
