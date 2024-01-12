@@ -5,7 +5,7 @@ title: Doren Çalliku's CV
 
 ## Doren Çalliku
 
-A machine learning engineer for biomedical or geospatial applications.<br> _Last updated: 01/24._
+A machine learning engineer for biomedical or geospatial applications, with interest in improving explainability of ML models for smoother adaptation.<br> _Last updated: 01/24._
 
 <div id="webaddress">
 <a href="mailto:dcalliku@gmail.com">e-mail</a>
