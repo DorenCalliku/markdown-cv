@@ -5,7 +5,7 @@ title: Doren Çalliku's CV
 
 ## Doren Çalliku
 
-A machine learning engineer for neuroscience and geospatial applications.<br> _Last updated: 01/24._
+A machine learning engineer for biomedical or geospatial applications.<br> _Last updated: 01/24._
 
 <div id="webaddress">
 <a href="mailto:dcalliku@gmail.com">e-mail</a>
@@ -14,11 +14,11 @@ A machine learning engineer for neuroscience and geospatial applications.<br> _L
 | <a href="https://www.linkedin.com/in/pomodoren/">linkedin</a>
 </div>
 
-## Practice
+## Experience
 
-### Work experience
+### Professional
 
-`03/23-Ongoing`
+`03/23-Present`
 __Advisor on Sustainable Mobility__, @<ins>[German Agency for Int. Cooperation](https://www.giz.de/en/html/index.html)</ins>
 
 - Digitalizing Tirana's public transport, supporting institutions with policies.
@@ -34,9 +34,9 @@ __Backend Engineer__ (part-time), @<ins>[QuickAlgorithm](https://quickalgorithm.
 
 ### OSS Community
 
-`03/23-Ongoing`
+`03/23-Present`
 __Active Member__, @<ins>[Open Labs Hackerspace](https://openlabs.cc/en/)<ins>
-- Organizer of the 2023 Open-Source Conference, Albania @[website of OSCAL23](https://oscal.openlabs.cc/)<ins>.
+- Organizer of the 2023 Open-Source Conference, Albania @<ins>[website of OSCAL23](https://oscal.openlabs.cc/)<ins>.
 - Presentations on OSS tools for mobility, neuro, or cyber, @<ins>[various presentations](https://pomodoren.github.io/open-labs/)<ins>.
 
 ### Academic research
@@ -69,6 +69,11 @@ __B.Sc. Computer Engineering__
 - __Data Science__ Erasmus+ at the Royal Institute of Technology (Sweden).
 - Focus on algorithms and computer science.
 - Voluntary work @TDP, helping in education, poverty, and refugee issues.
+
+### Certifications
+
+- __Specialization__ Neuroscience and Neuroimaging (Fundamentals, fMRI, Neurohacking).
+- __Courses__ AI for Medical Diagnosis, Psychological First Aid, Neuromarketing.
 
 ## Skills
 
