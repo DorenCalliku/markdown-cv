@@ -66,14 +66,14 @@ __B.Sc. Computer Engineering__
 
 - Bilkent University (Turkey)
 - __GPA__: 3.45/4.00 (very good), Comprehensive Scholarship
-- __Data Science__ Erasmus+ at the Royal Institute of Technology (Sweden).
+- __Data Science__: Erasmus+ at the Royal Institute of Technology (Sweden).
 - Focus on algorithms and computer science.
 - Voluntary work @TDP, helping in education, poverty, and refugee issues.
 
 ### Certifications
 
-- __Specialization__ Neuroscience and Neuroimaging (Fundamentals, fMRI, Neurohacking).
-- __Courses__ AI for Medical Diagnosis, Psychological First Aid, Neuromarketing.
+- __Specializations__: Neuroscience and Neuroimaging, IBM AI Engineering (ongoing).
+- __Courses__: AI for Medical Diagnosis, Psychological First Aid, Neuromarketing.
 
 ## Skills
 
