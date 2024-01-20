@@ -5,7 +5,7 @@ title: Doren Çalliku's CV
 
 ## Doren Çalliku
 
-A machine learning engineer for biomedical or geospatial applications, interested in ethical and explainable AI. _Last updated: 01/24._
+A computer engineer for data-oriented biomedical or geospatial applications, interested in ethical and explainable AI. _Last updated: 01/24._
 
 <div id="webaddress">
 <a href="mailto:dcalliku@gmail.com">e-mail</a>
