@@ -11,7 +11,6 @@ A computer engineer interested in open-source tools for neuro, geo, and AI. _Las
 <a href="mailto:dcalliku@gmail.com">e-mail</a>
 <!--| <a href="https://pomodoren.github.io">website</a>-->
 | <a href="https://github.com/pomodoren">github</a>
-| <a href="https://www.linkedin.com/in/pomodoren/">linkedin</a>
 </div>
 
 ## Experience
