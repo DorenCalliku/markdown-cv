@@ -5,7 +5,7 @@ title: Doren Çalliku's CV
 
 ## Doren Çalliku
 
-A computer engineer for data-oriented biomedical or geospatial applications, interested in ethical and explainable AI. _Last updated: 01/24._
+A computer engineer interested in open-source tools for neuro, geo, and AI. _Last updated: 02/25._
 
 <div id="webaddress">
 <a href="mailto:dcalliku@gmail.com">e-mail</a>
@@ -18,26 +18,22 @@ A computer engineer for data-oriented biomedical or geospatial applications, int
 
 ### Professional
 
-`03/23-Present`
+`12/24-Present`
+__Computer Scientist for Risk Management__, @<ins>[Helmholtz Centre for Geosciences](https://www.gfz.de/en/)</ins>
+
+- Setting up scalable infrastructure for exposure to earthquakes.
+- Contributing to standardization of risk in open data. 
+- Contributing to exposure-profilization of countries. 
+
+`02/23-12/24`
 __Advisor on Sustainable Mobility__, @<ins>[German Agency for Int. Cooperation](https://www.giz.de/en/html/index.html)</ins>
 
 - Digitalizing Tirana's public transport, supporting institutions with policies.
 - Orienting policy-making on mobility towards open-data and open-source tools.
 - Training staff on targeted visualizations of operational data.
-- AI video analysis for modal share counting using YOLO.
 
 `06/21-07/22`
 __Backend Engineer__ (part-time), @<ins>[QuickAlgorithm](https://quickalgorithm.com/)</ins>
-
-- Worked mainly with python and SQL for asset management application.
-- Benchmarked database functionalities and optimized queries.
-
-### OSS Community
-
-`03/23-Present`
-__Active Member__, @<ins>[Open Labs Hackerspace](https://openlabs.cc/en/)<ins>
-- Organizer of the 2023 Open-Source Conference, Albania @<ins>[website of OSCAL23](https://oscal.openlabs.cc/)<ins>.
-- Presentations on OSS tools for mobility, neuro, or cyber, @<ins>[various presentations](https://pomodoren.github.io/open-labs/)<ins>.
 
 ### Academic research
 
