@@ -5,7 +5,7 @@ title: Doren Çalliku's CV
 
 ## Doren Çalliku
 
-A computer engineer interested in open-source tools for neuro, geo, and AI. _Last updated: 02/25._
+Computer engineer, interested in open data and open-source tools for neuroscience, geospatial, and AI. _Last updated: 02/25._
 
 <div id="webaddress">
 <a href="mailto:dcalliku@gmail.com">e-mail</a>
@@ -29,7 +29,7 @@ __Advisor on Sustainable Mobility__, @<ins>[German Agency for Int. Cooperation](
 
 - Digitalizing Tirana's public transport, supporting institutions with policies.
 - Orienting policy-making on mobility towards open-data and open-source tools.
-- Training staff on targeted visualizations of operational data.
+- Training staff on visualizations of operational data.
 
 `06/21-07/22`
 __Backend Engineer__ (part-time), @<ins>[QuickAlgorithm](https://quickalgorithm.com/)</ins>
